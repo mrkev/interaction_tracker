@@ -1,0 +1,8 @@
+[ ] Message Channels 
+[ ] setInterval()
+[x] setTimeout()
+[ ] RAF
+[-] queueMicrotask
+[ ] Promise
+  [x] new
+  [ ] resolve
