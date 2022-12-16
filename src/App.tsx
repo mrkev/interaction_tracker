@@ -2,7 +2,6 @@ import { Dispatch, SetStateAction, useState, useEffect } from "react";
 import { busyWait, promiseWait } from "./utils";
 import "./styles.css";
 import { SummaryView } from "./Summary";
-import { makeid } from "./utils";
 import {
   pendingInteractions,
   interactionStack,
